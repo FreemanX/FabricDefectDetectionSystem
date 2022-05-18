@@ -41,8 +41,10 @@ A pretrained general model(model trained with both types of fabric, solid-colore
 <img width="700" src="https://user-images.githubusercontent.com/9710644/168970869-94a9fc27-dfe0-4d40-8112-d21e888c9241.png">   
 <img width="700" src="https://user-images.githubusercontent.com/9710644/168972319-b0a99c5e-4c34-4967-b0b1-1fca695c97c9.png">
 
-### Automatically throw out contaminated masks 
-<img width="700" src="https://user-images.githubusercontent.com/9710644/168974055-c6cb7b96-21c4-441e-9851-fd04fcb07055.JPG">   
-
+### Automatically throw out contaminated masks    
 [Video link](https://youtube.com/shorts/XUYxkAF2sp4?feature=share)   
+<img width="700" src="https://user-images.githubusercontent.com/9710644/168974055-c6cb7b96-21c4-441e-9851-fd04fcb07055.JPG">   
+<img width="619" alt="screenRecording 2022-05-18 at 19 09 00@2x" src="https://user-images.githubusercontent.com/9710644/169002757-36e225d2-2188-4973-8008-ed0ee90dae2f.png">
+
+  
 
