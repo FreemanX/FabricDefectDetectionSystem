@@ -1,4 +1,4 @@
-# Fabric Defect Detection System
+# Fabric Defects Detection System
 Medical face masks are made of multiple(usually 3~5) layers of non woven fabric. During the production of non woven fabric, inevitablely, some dust or even insects may fall on the fabric.     
 <img src="https://user-images.githubusercontent.com/9710644/168519343-fb1972d4-b85d-48ef-afc9-b6c14eacdc60.jpg" width="400">
 <img src="https://user-images.githubusercontent.com/9710644/168519374-f53e3fc3-dea3-42ba-9310-395e8e34f68e.jpg" width="400">     
